@@ -1,0 +1,48 @@
+.imagetop{
+   width: 500px;;
+   height: 400px;
+   
+}
+.imagetop1{
+    width: 200px;
+    height: 350px;
+    padding-top: 15px;
+  
+}
+body{
+     font-family: sans-serif;
+}
+.texto1{
+    color: #ffcc66;
+    font-family: sans-serif;
+    padding: 5%;
+    font-size: 4em;
+}
+.btn{
+    border-radius: 10%;
+}
+.imgCorpo{
+    height: 800px;
+    width: 100%;
+}
+.imgCorpo2{
+    height: 600px;
+    width: 900px;
+}
+
+  #playlist{
+      padding: 5%;
+      text-align: center;
+  }
+  .pa{
+      font-size: 2em;
+      color: #999999;
+      padding: 15%;
+  }
+  #rodape{
+    height: 450px;
+     padding: 15%;
+
+    text-align: center;
+}
+
